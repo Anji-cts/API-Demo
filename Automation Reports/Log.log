@@ -1,0 +1,58 @@
+ - 14-12-2020 13:07:18 i_set_valid_GET_users_service_api_end_point - **************Test verifiction by hitting the end point*************
+ - 14-12-2020 13:07:20 i_set_valid_GET_users_service_api_end_point - https://jsonplaceholder.typicode.com :Value from Properties file
+ - 14-12-2020 13:07:24 i_set_valid_GET_users_service_api_end_point - Status code: 200
+ - 14-12-2020 13:07:24 i_should_see_valid_response_code - Verifying the status code: 200
+ - 14-12-2020 13:07:25 i_should_see_and - 500 :Number of nodes 
+ - 14-12-2020 13:07:25 i_should_see_and - i value from response: 2
+ - 14-12-2020 13:07:25 i_should_see_and - Given name and ID does not exists in response
+ - 14-12-2020 13:07:25 i_set_valid_GET_users_service_api_end_point - **************Test verifiction by hitting the end point*************
+ - 14-12-2020 13:07:25 i_set_valid_GET_users_service_api_end_point - https://jsonplaceholder.typicode.com :Value from Properties file
+ - 14-12-2020 13:07:26 i_set_valid_GET_users_service_api_end_point - Status code: 200
+ - 14-12-2020 13:07:26 i_should_see_valid_response_code - Verifying the status code: 200
+ - 14-12-2020 13:07:26 i_should_see_title_and - 100 :Number of Name nodes
+ - 14-12-2020 13:07:26 i_should_see_title_and - i value from response: 3
+ - 14-12-2020 13:07:26 i_should_see_title_and - Given name and ID exists in response at node: 3
+ - 14-12-2020 13:07:26 i_set_valid_GET_users_service_api_end_point - **************Test verifiction by hitting the end point*************
+ - 14-12-2020 13:07:26 i_set_valid_GET_users_service_api_end_point - https://jsonplaceholder.typicode.com :Value from Properties file
+ - 14-12-2020 13:07:26 i_set_valid_GET_users_service_api_end_point - Status code: 200
+ - 14-12-2020 13:07:26 i_should_see_valid_response_code - Verifying the status code: 200
+ - 14-12-2020 13:07:26 i_should_see_the_username_in_response - 10 :Number of Name nodes
+ - 14-12-2020 13:07:26 i_should_see_the_username_in_response - [Bret, Antonette, Samantha, Karianne, Kamren, Leopoldo_Corkery, Elwyn.Skiles, Maxime_Nienow, Delphine, Moriah.Stanton]
+ - 14-12-2020 13:07:26 i_should_see_the_username_in_response - Given username: Bret is existst in the response with id: 1
+ - 14-12-2020 13:07:26 i_should_verify_address_details - Bret
+ - 14-12-2020 13:07:26 i_should_verify_address_details - Given username: Bret is existst in the response with id: 1
+ - 14-12-2020 13:07:26 i_should_verify_address_details - {street=Kulas Light, suite=Apt. 556, city=Gwenborough, zipcode=92998-3874, geo={lat=-37.3159, lng=81.1496}}
+ - 14-12-2020 13:07:26 i_should_verify_address_details - Kulas Light Apt. 556 Gwenborough
+ - 14-12-2020 13:07:26 i_should_verify_company_details - Bret
+ - 14-12-2020 13:07:26 i_should_verify_company_details - Given username: Bret is existst in the response with id: 1
+ - 14-12-2020 13:07:27 i_should_verify_company_details - {name=Romaguera-Crona, catchPhrase=Multi-layered client-server neural-net, bs=harness real-time e-markets}
+ - 14-12-2020 13:07:27 i_should_verify_company_details - Romaguera-Crona Multi-layered client-server neural-net harness real-time e-markets
+ - 14-12-2020 14:09:08 i_set_valid_GET_users_service_api_end_point - **************Test verifiction by hitting the end point*************
+ - 14-12-2020 14:09:09 i_set_valid_GET_users_service_api_end_point - https://jsonplaceholder.typicode.com :Value from Properties file
+ - 14-12-2020 14:09:14 i_set_valid_GET_users_service_api_end_point - Status code: 200
+ - 14-12-2020 14:09:14 i_should_see_valid_response_code - Verifying the status code: 200
+ - 14-12-2020 14:09:15 i_should_see_and - 500 :Number of nodes 
+ - 14-12-2020 14:09:15 i_should_see_and - i value from response: 2
+ - 14-12-2020 14:09:15 i_should_see_and - Given name and ID does not exists in response
+ - 14-12-2020 14:09:15 i_set_valid_GET_users_service_api_end_point - **************Test verifiction by hitting the end point*************
+ - 14-12-2020 14:09:15 i_set_valid_GET_users_service_api_end_point - https://jsonplaceholder.typicode.com :Value from Properties file
+ - 14-12-2020 14:09:16 i_set_valid_GET_users_service_api_end_point - Status code: 200
+ - 14-12-2020 14:09:16 i_should_see_valid_response_code - Verifying the status code: 200
+ - 14-12-2020 14:09:16 i_should_see_title_and - 100 :Number of Name nodes
+ - 14-12-2020 14:09:16 i_should_see_title_and - i value from response: 3
+ - 14-12-2020 14:09:16 i_should_see_title_and - Given name and ID exists in response at node: 3
+ - 14-12-2020 14:09:16 i_set_valid_GET_users_service_api_end_point - **************Test verifiction by hitting the end point*************
+ - 14-12-2020 14:09:16 i_set_valid_GET_users_service_api_end_point - https://jsonplaceholder.typicode.com :Value from Properties file
+ - 14-12-2020 14:09:17 i_set_valid_GET_users_service_api_end_point - Status code: 200
+ - 14-12-2020 14:09:17 i_should_see_valid_response_code - Verifying the status code: 200
+ - 14-12-2020 14:09:17 i_should_see_the_username_in_response - 10 :Number of Name nodes
+ - 14-12-2020 14:09:17 i_should_see_the_username_in_response - [Bret, Antonette, Samantha, Karianne, Kamren, Leopoldo_Corkery, Elwyn.Skiles, Maxime_Nienow, Delphine, Moriah.Stanton]
+ - 14-12-2020 14:09:17 i_should_see_the_username_in_response - Given username: Bret is existst in the response with id: 1
+ - 14-12-2020 14:09:17 i_should_verify_address_details - Bret
+ - 14-12-2020 14:09:17 i_should_verify_address_details - Given username: Bret is existst in the response with id: 1
+ - 14-12-2020 14:09:17 i_should_verify_address_details - {street=Kulas Light, suite=Apt. 556, city=Gwenborough, zipcode=92998-3874, geo={lat=-37.3159, lng=81.1496}}
+ - 14-12-2020 14:09:17 i_should_verify_address_details - Kulas Light Apt. 556 Gwenborough
+ - 14-12-2020 14:09:17 i_should_verify_company_details - Bret
+ - 14-12-2020 14:09:17 i_should_verify_company_details - Given username: Bret is existst in the response with id: 1
+ - 14-12-2020 14:09:17 i_should_verify_company_details - {name=Romaguera-Crona, catchPhrase=Multi-layered client-server neural-net, bs=harness real-time e-markets}
+ - 14-12-2020 14:09:17 i_should_verify_company_details - Romaguera-Crona Multi-layered client-server neural-net harness real-time e-markets
